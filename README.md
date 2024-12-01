@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Current Role: System Engineer<br>👯 Collaboration: Open to collaborating on impactful projects<br>🤝 Seeking Support: Interested in guidance and insights for technical growth<br>🌱 ocus Area: Currently enhancing expertise in Azure,AD,Networking.<br>💬 Engagement: Feel free to reach out with questions or ideas.<br> ⚡Fun Fact: Open to exploring innovative tech solutions!<br>
+🔭 Current Role: System Engineer.<br>👯 Collaboration: Open to collaborating on impactful projects<br>🤝 Seeking Support: Interested in guidance and insights for technical growth<br>🌱 Focus Area: Currently enhancing expertise in Azure,AD,Networking.<br>💬 Engagement: Feel free to reach out with questions or ideas.<br> ⚡Fun Fact: Open to exploring innovative tech solutions!<br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=camit4777&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=camit4777&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=camit4777&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=camit4777&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=camit4777&limit=5&theme=dark&combine_all_yearly_contributions=true)
